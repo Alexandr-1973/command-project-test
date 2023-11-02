@@ -1,0 +1,49 @@
+/* *::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.header-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  width: 300px;
+  outline: 2px solid tomato; */
+  /* background-image: url(../img/Minus.svg); */
+  /* background-repeat: repeat-y;
+  background-size: auto auto;
+  background-position: center; */
+/* } */
+/* https://upload.wikimedia.org/wikipedia/commons/c/c9/Minus.svg */
+
+/* ul {
+    margin: 0;
+    padding-left: 0;
+    list-style-type: none;
+  }
+  .header-container {
+  
+
+  }
+  .header-navigation {
+    display: flex;
+    justify-content: space-between;
+  }
+.header-menu {
+    display: flex;
+}
+.header-logo-icon {
+   
+}
+.header-openmenu-icon {
+  
+} */
+.header-open-btn-icon {
+    fill: black;
+    stroke: black;
+}
+.mob-btn-icon {
+    fill: black;
+    stroke: black;
+}
