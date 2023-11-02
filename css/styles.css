@@ -10,8 +10,8 @@
   height: 300px;
   width: 300px;
   outline: 2px solid tomato; */
-  /* background-image: url(../img/Minus.svg); */
-  /* background-repeat: repeat-y;
+/* background-image: url(../img/Minus.svg); */
+/* background-repeat: repeat-y;
   background-size: auto auto;
   background-position: center; */
 /* } */
@@ -40,10 +40,22 @@
   
 } */
 .header-open-btn-icon {
-    fill: black;
-    stroke: black;
+  fill: black;
+  stroke: black;
 }
 .mob-btn-icon {
-    fill: black;
-    stroke: black;
+  fill: black;
+  stroke: black;
+}
+.flex-header {
+  background-image: linear-gradient (rgba(18, 18, 18, 1), rgba(18, 18, 18, 0));
+  /* url(../images/line.png),
+        url(../images/line2.png); */
+
+  /* background-image: url(../images/line2.png); */
+  /* background-repeat: repeat; */
+  /* background-position: center, center; */
+  /* background-color:  #121212; */
+  /* background-size: auto, auto;
+    background-repeat: repeat, repeat; */
 }
